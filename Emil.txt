@@ -1,1 +1,2 @@
 Name: Emil
+Favorite Color: Blue
